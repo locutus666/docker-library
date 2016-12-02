@@ -1,0 +1,1 @@
+FROM  index.alauda.cn/googlecontainer/kube-ui:v5
