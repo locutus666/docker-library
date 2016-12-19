@@ -1,1 +1,0 @@
-FROM index.alauda.cn/googlecontainer/heapster_grafana:v3.1.1
